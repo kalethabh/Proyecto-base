@@ -1,9 +1,12 @@
+import Home from "./Home/Home";
+import './App.css'
+
 function App() {
 
   return (
-   <div>
-      <h1>Hello</h1>
-   </div>
+    <div>
+      <Home/>
+    </div>
   );
 }
 

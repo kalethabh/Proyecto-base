@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+    background: url('../src/img/Background.jpg') no-repeat center center fixed;
+    background-size: 85%;
+    background-position: center 100%;
+    width: 100%;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-y: hidden;
+}

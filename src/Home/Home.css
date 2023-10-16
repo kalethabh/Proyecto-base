@@ -1,0 +1,17 @@
+/* styles.css */
+
+.background {
+    background-image: url('/ruta-a-tu-imagen/imagen-de-fondo.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+    background-position: center; /* Coloca la imagen en el centro del fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    height: 100vh; /* Asegura que la imagen ocupe el 100% de la altura de la ventana */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff; /* Cambia el color del texto para que sea legible en el fondo */
+  }
+  
+  /* Agrega estilos adicionales según tus necesidades */
+  
