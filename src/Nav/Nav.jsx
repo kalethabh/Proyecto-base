@@ -12,6 +12,6 @@ function Nav(){
                     <li className="w-full text-2xl font-bold"><a href="#">Soporte</a></li> */}
                 </ul>
         </nav>
-    )
+                    )
 }
 export default Nav

@@ -1,15 +1,12 @@
-
 function Home() {
     return (
         <div className="flex justify-center">
-            <div className="mt-10 text-center bg-teal-600 h-37 border-4 border-black w-[40em]">
-                <div className="p-4">
-                    <h1 className="text-4xl font-bold">Participa ahora...</h1>
-                    <h1 className="text-4xl font-bold">Elige de que manera deseas ayudarnos</h1>
-                </div>
+            <div className="mt-10 text-center bg-[#0c9266cc] w-[35em] p-10 border-4 border-black rounded-md">
+                    <h1 className="text-4xl text-white font-bold to-zinc-50">Participa ahora...</h1>
+                    <h1 className="text-4xl text-white font-bold">Elige de que manera deseas ayudarnos</h1>
             </div>
         </div>
     )
 }
 
-export default Home;
+export default Home
