@@ -13,8 +13,7 @@ function App() {
       <Nav/>
       <Routes>
         <Route path="/" element={<Home/>}/>
-        <Route path="/about" element={<About/>}/>Ç
-        <Route path="/devs" element={<Devps/>}/>
+        <Route path="/About" element={<About/>}/>Ç
       </Routes>
       <Footer/>
     </div>
