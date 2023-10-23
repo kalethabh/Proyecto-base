@@ -1,8 +1,4 @@
 function DevsInfo(){
-    const devs = [
-        
-    ]
-    
     return(
         <div>
 

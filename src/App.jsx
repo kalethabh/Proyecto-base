@@ -4,6 +4,7 @@ import Nav from "./Nav/Nav"
 import Home from "./Home/Home"
 import About from "./About/About"
 import Footer from "./Footer/Footer"
+import Devps from './DevpsInfo/DevsInfo'
 
 function App() {
 
@@ -12,7 +13,8 @@ function App() {
       <Nav/>
       <Routes>
         <Route path="/" element={<Home/>}/>
-        <Route path="/about" element={<About/>}/>
+        <Route path="/about" element={<About/>}/>Ç
+        <Route path="/devs" element={<Devps/>}/>
       </Routes>
       <Footer/>
     </div>
